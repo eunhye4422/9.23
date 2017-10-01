@@ -1,0 +1,5 @@
+snippet ; 단편 
+
+brachet snippet : 브라켓 확장기능 ! 단축키 + tap 하면 저장된 내용이 자동완성 
+
+ide툴에 다 있당 ! ^^ 

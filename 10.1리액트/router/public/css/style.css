@@ -1,0 +1,20 @@
+* {margin : 0; padding :0}
+
+
+h1 {text-align: center; height: 100px; line-height: 100px; font-size :20px}
+
+.menu {display: table; width : 100%; background : #5c7cfa; height : 50px; table-layout: fixed; border-top : 1px solid #5c7cfa;border-bottom : 1px solid #5c7cfa} /* 넓이동일하게 한다 */
+.menu a {
+    display: table-cell; text-align: center; color : #fff; line-height: 50px; height : 50px; cursor: pointer; }
+
+.menu a:hover {background-color :#fff; color : #222}
+.menu a.active {background-color :#fff; color : #222}
+
+
+
+.content {text-align: center; padding-top : 80px; }
+
+
+.post_content {display: none;}
+
+
