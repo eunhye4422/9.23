@@ -1,0 +1,49 @@
+1. nodeJS 다운로드 
+2. 다운로드 폴더에 project 폴더 만들기
+3. project폴더에 server.js 만들기
+4. cd download , cd project
+5. 내용작성
+6. node server.js
+
+
+7. chrome 에서 localhost:8081
+
+
+
+
+<2>
+
+exports & requre
+
+
+
+
+
+
+
+<3> express
+
+서버만들기
+라우트
+자동관리 supervisor
+
+
+!ejs!
+
+npm 
+views폴더 만들기 ( 폴더이름은 규칙임 ) 
+index.ejs파일 -> html5구글 검색해서 구조 만들기 
+app.js 에 ejs 셋팅 
+
+include
+menu.ejs
+head.ejs 
+
+{} 데이터
+
+css - static --- public 폴더 
+... 
+
+
+
+이것저것 js와 섞어쓰기! 
